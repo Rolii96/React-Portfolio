@@ -18,7 +18,7 @@ const Work = () => {
           <p className="text-4xl font-bold inline border-b-4 text-gray-300 border-pink-600">
             Work
           </p>
-          <p className="py-6">// Check out some of my recent work</p>
+          <p className="py-6"> Check out some of my recent work</p>
         </div>
 
         {/* Container */}
@@ -38,12 +38,17 @@ const Work = () => {
                   <a
                     href="https://poetic-haupia-484ef9.netlify.app/"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                       GO LIVE
                     </button>
                   </a>
-                  <a href="https://github.com/Rolii96" target="_blank">
+                  <a
+                    href="https://github.com/Rolii96"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                       Code
                     </button>
@@ -67,12 +72,17 @@ const Work = () => {
                   <a
                     href="https://soft-narwhal-fbd1d5.netlify.app/"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                       GO LIVE
                     </button>
                   </a>
-                  <a href="https://github.com/Rolii96" target="_blank">
+                  <a
+                    href="https://github.com/Rolii96"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                       Code
                     </button>
@@ -97,12 +107,17 @@ const Work = () => {
                   <a
                     href="https://lustrous-baklava-d94748.netlify.app/"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                       GO LIVE
                     </button>
                   </a>
-                  <a href="https://github.com/Rolii96" target="_blank">
+                  <a
+                    href="https://github.com/Rolii96"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                       Code
                     </button>
@@ -126,12 +141,17 @@ const Work = () => {
                   <a
                     href="https://suspicious-wilson-154a58.netlify.app/javascript%20calculator/"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                       GO LIVE
                     </button>
                   </a>
-                  <a href="https://github.com/Rolii96" target="_blank">
+                  <a
+                    href="https://github.com/Rolii96"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                       Code
                     </button>
@@ -156,12 +176,17 @@ const Work = () => {
                   <a
                     href="https://suspicious-wilson-154a58.netlify.app/calendar%20project%20using%20jquery/"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                       GO LIVE
                     </button>
                   </a>
-                  <a href="https://github.com/Rolii96" target="_blank">
+                  <a
+                    href="https://github.com/Rolii96"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                       Code
                     </button>
@@ -185,12 +210,17 @@ const Work = () => {
                   <a
                     href="https://splendid-fenglisu-7109f7.netlify.app/"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                       GO LIVE
                     </button>
                   </a>
-                  <a href="https://github.com/Rolii96" target="_blank">
+                  <a
+                    href="https://github.com/Rolii96"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                       Code
                     </button>
@@ -214,12 +244,17 @@ const Work = () => {
                   <a
                     href="https://suspicious-wilson-154a58.netlify.app/"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                       GO LIVE
                     </button>
                   </a>
-                  <a href="https://github.com/Rolii96" target="_blank">
+                  <a
+                    href="https://github.com/Rolii96"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                       Code
                     </button>
@@ -243,12 +278,17 @@ const Work = () => {
                   <a
                     href="https://suspicious-wilson-154a58.netlify.app/project%20rolandajeti/rolandajeti/"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                       GO LIVE
                     </button>
                   </a>
-                  <a href="https://github.com/Rolii96" target="_blank">
+                  <a
+                    href="https://github.com/Rolii96"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                       Code
                     </button>
@@ -272,12 +312,17 @@ const Work = () => {
                   <a
                     href="https://suspicious-wilson-154a58.netlify.app/facebook%20page-like/"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                       GO LIVE
                     </button>
                   </a>
-                  <a href="https://github.com/Rolii96" target="_blank">
+                  <a
+                    href="https://github.com/Rolii96"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                       Code
                     </button>
@@ -301,12 +346,17 @@ const Work = () => {
                   <a
                     href="https://roland-ajeti.netlify.app/"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                       GO LIVE
                     </button>
                   </a>
-                  <a href="https://github.com/Rolii96" target="_blank">
+                  <a
+                    href="https://github.com/Rolii96/roi-internship"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                       Code
                     </button>
@@ -322,3 +372,4 @@ const Work = () => {
 };
 
 export default Work;
+
