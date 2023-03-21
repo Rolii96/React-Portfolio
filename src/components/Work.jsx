@@ -8,6 +8,7 @@ import Project6 from "../assets/project-6.png";
 import Project7 from "../assets/project-7.png";
 import Project8 from "../assets/project-8.png";
 import Project9 from "../assets/project-9.png";
+import Project10 from "../assets/project-10.png";
 
 const Work = () => {
   return (
@@ -42,7 +43,7 @@ const Work = () => {
                       GO LIVE
                     </button>
                   </a>
-                  <a href="https://github.com/Rolii96" target='_blank'>
+                  <a href="https://github.com/Rolii96" target="_blank">
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                       Code
                     </button>
@@ -71,7 +72,7 @@ const Work = () => {
                       GO LIVE
                     </button>
                   </a>
-                  <a href="https://github.com/Rolii96" target='_blank'>
+                  <a href="https://github.com/Rolii96" target="_blank">
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                       Code
                     </button>
@@ -101,7 +102,7 @@ const Work = () => {
                       GO LIVE
                     </button>
                   </a>
-                  <a href="https://github.com/Rolii96" target='_blank'>
+                  <a href="https://github.com/Rolii96" target="_blank">
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                       Code
                     </button>
@@ -130,7 +131,7 @@ const Work = () => {
                       GO LIVE
                     </button>
                   </a>
-                  <a href="https://github.com/Rolii96" target='_blank'>
+                  <a href="https://github.com/Rolii96" target="_blank">
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                       Code
                     </button>
@@ -160,7 +161,7 @@ const Work = () => {
                       GO LIVE
                     </button>
                   </a>
-                  <a href="https://github.com/Rolii96" target='_blank'>
+                  <a href="https://github.com/Rolii96" target="_blank">
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                       Code
                     </button>
@@ -178,8 +179,7 @@ const Work = () => {
             <div className="opacity-0 group-hover:opacity-100">
               <div>
                 <span className="text-2xl font-bold text-white tracking-wider">
-                  Data Analytics-
-                  React JS Application
+                  Data Analytics- React JS Application
                 </span>
                 <div className="pt-8 text-center">
                   <a
@@ -190,7 +190,7 @@ const Work = () => {
                       GO LIVE
                     </button>
                   </a>
-                  <a href="https://github.com/Rolii96" target='_blank'>
+                  <a href="https://github.com/Rolii96" target="_blank">
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                       Code
                     </button>
@@ -219,7 +219,7 @@ const Work = () => {
                       GO LIVE
                     </button>
                   </a>
-                  <a href="https://github.com/Rolii96" target='_blank'>
+                  <a href="https://github.com/Rolii96" target="_blank">
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                       Code
                     </button>
@@ -248,7 +248,7 @@ const Work = () => {
                       GO LIVE
                     </button>
                   </a>
-                  <a href="https://github.com/Rolii96" target='_blank'>
+                  <a href="https://github.com/Rolii96" target="_blank">
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                       Code
                     </button>
@@ -277,7 +277,7 @@ const Work = () => {
                       GO LIVE
                     </button>
                   </a>
-                  <a href="https://github.com/Rolii96" target='_blank'>
+                  <a href="https://github.com/Rolii96" target="_blank">
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                       Code
                     </button>
@@ -286,7 +286,7 @@ const Work = () => {
               </div>
             </div>
           </div>
-          
+
           <div
             style={{ backgroundImage: `url(${Project10})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
