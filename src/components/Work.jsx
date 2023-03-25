@@ -36,7 +36,7 @@ const Work = () => {
                 </span>
                 <div className="pt-8 text-center">
                   <a
-                    href="https://poetic-haupia-484ef9.netlify.app/"
+                    href="https://weather-websitte.netlify.app/"
                     target="_blank"
                     rel="noreferrer"
                   >
